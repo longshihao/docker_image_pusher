@@ -1,3 +1,4 @@
+php:8.0.26-fpm-alpine3.16
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

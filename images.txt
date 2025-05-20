@@ -13,4 +13,5 @@
 #grafana/grafana:latest
 #mysql:5.7
 #mysql:8
-golang:latest
+#golang:latest
+golang:1.23.9-alpine3.21

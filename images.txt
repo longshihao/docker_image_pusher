@@ -16,4 +16,5 @@
 #golang:latest
 #golang:1.23.9-alpine3.21
 #zookeeper:3.8.1
-python:3.10-slim
+#python:3.10-slim
+ubuntu:latest

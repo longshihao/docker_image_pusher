@@ -18,4 +18,5 @@
 #zookeeper:3.8.1
 #python:3.10-slim
 #ubuntu:latest
-cimg/go:1.23
+#cimg/go:1.23
+onlyoffice/communityserver:latest

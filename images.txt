@@ -19,4 +19,5 @@
 #python:3.10-slim
 #ubuntu:latest
 #cimg/go:1.23
-onlyoffice/communityserver:latest
+#onlyoffice/communityserver:latest
+onlyoffice/documentserver:latest

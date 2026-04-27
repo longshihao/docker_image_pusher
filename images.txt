@@ -21,4 +21,6 @@
 #cimg/go:1.23
 #onlyoffice/communityserver:latest
 #onlyoffice/documentserver:latest
-outlinewiki/outline:1.7
+#outlinewiki/outline:1.7
+postgres:16-alpine
+redis:7-alpine

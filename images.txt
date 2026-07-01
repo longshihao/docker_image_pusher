@@ -22,5 +22,6 @@
 #onlyoffice/communityserver:latest
 #onlyoffice/documentserver:latest
 #outlinewiki/outline:1.7
-postgres:16-alpine
-redis:7-alpine
+#postgres:16-alpine
+#redis:7-alpine
+redis:6.0.18-alpine3.17
